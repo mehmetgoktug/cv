@@ -56,7 +56,7 @@
 = About Me
 #v(0.5em)
 
-I am currently working at the Directorate of Climate Change and Clean Energy of İzmir Metropolitan Municipality. I have contributed to various projects ranging from agriculture and animal husbandry to afforestation, nature-based solutions, and climate resilience.
+I am currently a PhD student in Ecology at Hacettepe University. I have worked at the İzmir Metropolitan Municipality for more than four years. I have contributed to various projects on climate resilience, nature-based solutions, sustainable agriculture, animal husbandry, and afforestation.
 
 I completed my master's in Ecology at Hacettepe University, focusing on 'Spatiotemporal Patterns of Lightning-Induced Wildfires in Turkey.' I participated in several field research across Anatolia, including fire ecology, plant functional traits, nomadic pastoralism, raptor migration, breeding birds, and large mammals. My research interests include ecological modeling, fire ecology, and biogeography.
 
@@ -66,9 +66,9 @@ As an advocate for open and reproducible science, I write scripts in R, Python, 
 = Experience
 #v(0.5em)
 == #text(fill: rgb("#292929"), size: 11pt)[Biologist - İzmir Metropolitan Municipality]
-March 2021 - Present | İzmir, Türkiye
+#strong[March 2021 - November 2025 | İzmir, Türkiye]
 
-I am working on climate resilience and nature based solutions - NBS in various projects, such as Interreg NEXT MED, Climaax, Urban Climate Resilience Program - UCRP at the Directorate of Climate Change and Clean Energy of İzmir Metropolitan Municipality. During my time at the municipality, I worked ecological animal husbandry, agriculture, afforestation and landscape designing in several projects, such as Mera İzmir, Başka Bir Tarım Mümkün, Bir Fidan Bir Dünya, Yaşayan Parklar and HORIZON (CARDIMED-Climate Adaptation and Resilience Demonstrated in the Mediterranean Region). I took an active role in collecting, processing and spatial analysis and modelling of the data.
+I have worked on climate resilience, and nature-based solutions (NBS) in various projects, such as Interreg NEXT MED, Climaax, Urban Climate Resilience Program - UCRP at the Directorate of Climate Change and Clean Energy of İzmir Metropolitan Municipality. During my time at the municipality, I worked on ecological animal husbandry, agriculture, afforestation, and landscape design in several projects, such as Mera İzmir, Başka Bir Tarım Mümkün, Bir Fidan Bir Dünya, Yaşayan Parklar and HORIZON (CARDIMED-Climate Adaptation and Resilience Demonstrated in the Mediterranean Region). I took an active role in data collection, processing, spatial analysis and modelling.
 
 == #text(fill: rgb("#292929"), size: 11pt)[Undergraduate Research Assistant - Hacettepe University]
 #strong[September 2015 - January 2021 | Ankara, Türkiye]
@@ -94,11 +94,14 @@ I worked as a field study assistant in a research project on _Quercus aucheri_ w
 = Education
 #v(0.5em)
 
+== #text(fill: rgb("#292929"), size: 11pt)[Doctor of Philosophy - PhD, Ecology]
+#strong[2025 - Present | Hacettepe University | Ankara, Türkiye]
+
 == #text(fill: rgb("#292929"), size: 11pt)[Master of Science - MS, Ecology]
-#strong[2021-2024 | Hacettepe University | Ankara, Türkiye]
+#strong[2021 - 2024 | Hacettepe University | Ankara, Türkiye]
 
 == #text(size: 11pt)[Bachelor's degree, Biology]
-#strong[2015-2021 | Hacettepe University | Ankara, Türkiye]
+#strong[2015 - 2021 | Hacettepe University | Ankara, Türkiye]
 
 #v(0.5em)
 = Volunteering
@@ -110,17 +113,17 @@ I worked as a field study assistant in a research project on _Quercus aucheri_ w
 I am an editor in havadelisi.com and it's social media accounts.
 
 == #text(size: 11pt)[Field Biologist - Middle East Technical University]
-#strong[2017-2018 | Ankara, Türkiye]
+#strong[2017 - 2018 | Ankara, Türkiye]
 
 I was volunteer as birdwatcher in the Investigating the Biodiversity of Lake Eymir Area's Forest and Steppe Ecosystems and Determining Conservation Priority Zones Project in METU's Birdwatching Club(OKGT).
 
 == #text(size: 11pt)[Field Biologist - Middle East Technical University]
-#strong[2018-2019 | Ankara, Türkiye]
+#strong[2018 - 2019 | Ankara, Türkiye]
 
 I was volunteer as birdwatcher in the Searching for White-headed Duck (_Oxyura leucocephala_) Breeding and Wintering Grounds in Central Anatolia and Monitoring of Its Populations Project(Mohamed bin Zayed Species project number 182515710).
 
 == #text(size: 11pt)[Field Biologist - WWF-Türkiye]
-#strong[2016-2017 | Ankara, Türkiye]
+#strong[2016 - 2017 | Ankara, Türkiye]
 
 I was volunteer as a birdwatcher in the European Breeding Bird Atlas Project 2 (EBBA 2).
 
@@ -150,9 +153,15 @@ I was volunteer as an assistant of wildlife biologist in the Impact of Anatolian
 #grid(
   columns: (auto, 1fr),
   gutter: 1em,
-  [*Computer Skills:*], [R | Python | Bash | GDAL/OGR | QGIS | GRASS GIS | SAGA GIS | GEE | ArcGIS | SQL | Git | Markdown | Typst | Office Programs],
-  [*Other Skills:*], [Ecology | Ecological Modelling | Biogeography | Spatial Analysis | Remote Sensing | Data Analysis | Statistics | Machine Learning | Field Work | Birdwatching]
+  [*Computer Skills:*], [R | Python | Bash | GDAL/OGR | QGIS | GRASS GIS | SAGA GIS | GEE | ArcGIS | SQL | Git | Markdown | LaTeX | Typst | Office Programs],
+  [*Other Skills:*], [Ecology | Ecological Modelling | Biogeography | Statistics | Machine Learning | Data Analysis | Spatial Analysis | Remote Sensing |  Field Work | Birdwatching]
 )
+
+#v(0.5em)
+= Awards
+#v(0.5em)
+
+Ecology and Evolutionary Biology Association Best Master's Thesis Award [2025]
 
 #v(0.5em)
 = Languages
